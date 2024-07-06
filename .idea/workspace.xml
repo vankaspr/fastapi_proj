@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e9637e5-2aa2-4bf1-8206-b505a0a3b206" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="1e9637e5-2aa2-4bf1-8206-b505a0a3b206" name="Changes" comment="fix: update requirements.txt">
+      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720270571641</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fix: update requirements.txt">
+      <option name="closed" value="true" />
+      <created>1720271137468</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720271137468</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,7 +183,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="fix: update requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: update requirements.txt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
