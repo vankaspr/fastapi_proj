@@ -1,4 +1,5 @@
 venv
 tasks.db
 .idea
+__pychache__
 
